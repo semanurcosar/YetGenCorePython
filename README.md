@@ -1,0 +1,2 @@
+# YetGenCorePython
+Python Jump Eğitimi
