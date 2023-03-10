@@ -2,7 +2,7 @@
 
 Bu repoda YetGen Core Python eğitim programı boyunca yaptığım ödevleri paylaşacağım.
 
-<img src="https://yetkingencler.com/wp-content/uploads/2021/12/jump.png">
+<img src="https://yetkingencler.com/wp-content/uploads/2021/07/YetGenLogo.png">
 
 # 1.Haftada Yapılan Çalışmalar
 - Git ve Github Kullanımı
