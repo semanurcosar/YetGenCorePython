@@ -23,3 +23,25 @@ Bu repoda YetGen Core Python eğitim programı boyunca yaptığım ödevleri pay
 - Döngüler
 - 3.Hafta Eğitim Öncesi Görevleri
 - 3.Hafta Eğitim Sonrası Görevleri
+# 4.Haftada Yapılan Çalışmalar
+- Listeler ve Liste Metodları
+- Tuple(Demet)-Set(Küme)-Dictionary(Sözlük)
+- String ve String Metodları
+- 4.Hafta Eğitim Öncesi Görevleri
+- 4.Hafta Eğitim Sonrası Görevleri
+# 5.Haftada Yapılan Çalışmalar
+- List Comprehension
+- Fonksiyonlar ve Argüman
+- Return, *args, **kwargs ve Pass Deyimi
+- Global ve Yerel Değişkenler , Lambda Gösterimi
+- 5.Hafta Eğitim Öncesi Görevleri
+- 5.Hafta Eğitim Sonrası Görevleri
+# 6.Haftada Yapılan Çalışmalar
+- Modüller ve Math Modülü
+- Gömülü Fonksiyonlar
+- Hata Yönetimi
+- 6.Hafta Eğitim Öncesi Görevleri
+- 6.Hafta Eğitim Sonrası Görevleri
+# 7.Haftada Yapılan Çalışmalar
+- Tekrar Haftası
+- Hackerank Soru Çözümü
