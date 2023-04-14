@@ -1,0 +1,24 @@
+kullanıcı kaydı semanur coşar
+kullanıcının yas, kilo, boy bilgisi 20, 49.0, 1.6
+kullanıcının vücut kitle indexi 19.1
+değer aralığı Normal Kilolu
+olusturma tarihi: Fri Apr 14 09:51:56 2023
+********************
+kullanıcı kaydı öznur coşar
+kullanıcının yas, kilo, boy bilgisi 17, 51.0, 1.6
+kullanıcının vücut kitle indexi 19.9
+değer aralığı Normal Kilolu
+olusturma tarihi: Fri Apr 14 09:52:22 2023
+********************
+kullanici kaydi semanur coşar
+kullanicinin yas, kilo, boy bilgisi 20, 49.0, 1.6
+kullanicinin vücut kitle indexi 19.1
+değer araligi Normal Kilolu
+olusturma tarihi: Fri Apr 14 09:55:59 2023
+********************
+kullanici kaydi öznur coşar
+kullanicinin yas, kilo, boy bilgisi 22, 52.0, 1.6
+kullanicinin vücut kitle indexi 20.3
+değer araligi Normal Kilolu
+olusturma tarihi: Fri Apr 14 09:56:44 2023
+********************
