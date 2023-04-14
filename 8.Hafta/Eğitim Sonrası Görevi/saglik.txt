@@ -22,3 +22,21 @@ kullanicinin vücut kitle indexi 20.3
 değer araligi Normal Kilolu
 olusturma tarihi: Fri Apr 14 09:56:44 2023
 ********************
+kullanici kaydi semanur
+kullanicinin yas, kilo, boy bilgisi 20, 49.0, 1.6
+kullanicinin vücut kitle indexi 19.1
+değer araligi Normal Kilolu
+olusturma tarihi: Fri Apr 14 11:38:22 2023
+********************
+kullanici kaydi aysenur
+kullanicinin yas, kilo, boy bilgisi 21, 51.0, 1.62
+kullanicinin vücut kitle indexi 19.4
+değer araligi Normal Kilolu
+olusturma tarihi: Fri Apr 14 11:38:51 2023
+********************
+kullanici kaydi esma
+kullanicinin yas, kilo, boy bilgisi 12, 29.0, 1.45
+kullanicinin vücut kitle indexi 13.8
+değer araligi zayıf
+olusturma tarihi: Fri Apr 14 11:39:15 2023
+********************
