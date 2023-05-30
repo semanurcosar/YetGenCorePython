@@ -45,3 +45,27 @@ Bu repoda YetGen Core Python eğitim programı boyunca yaptığım ödevleri pay
 # 7.Haftada Yapılan Çalışmalar
 - Tekrar Haftası
 - Hackerank Soru Çözümü
+
+# 8.Haftada Yapılan Çalışmalar
+- Dosya İşlemleri 
+- Nesne Yönelimli Programlama 1
+- 8.Hafta Eğitim Öncesi Görevleri
+- 8.Hafta Eğitim Sonrası Görevleri
+ 
+# 9.Haftada Yapılan Çalışmalar 
+- Nesne Yönelimli Programlama 2
+- Inheritance
+- 9.Hafta Eğitim Öncesi Görevleri
+- 9.Hafta Eğitim Sonrası Görevleri
+
+# 10.Haftada Yapılan Çalışmalar
+- Numpy Nedir ve Neden Numpy Kullanıyoruz?
+- Temel Numpy Özellikleri
+- Numpy Detayları
+- 10.Hafta Eğitim Öncesi Görevleri
+- 10.Hafta Eğitim Sonrası Görevleri
+
+# 11.Haftada Yapılan Çalışmalar 
+- Pandas ve Pandas Serileri
+- Pandas Detayları
+- Pandas ve Matplotlib
