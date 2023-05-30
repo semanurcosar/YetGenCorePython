@@ -69,3 +69,6 @@ Bu repoda YetGen Core Python eğitim programı boyunca yaptığım ödevleri pay
 - Pandas ve Pandas Serileri
 - Pandas Detayları
 - Pandas ve Matplotlib
+
+# 12.Haftada Yapılan Çalışmalar 
+- PROJE
